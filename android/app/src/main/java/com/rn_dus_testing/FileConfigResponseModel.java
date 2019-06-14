@@ -11,6 +11,6 @@ import com.google.gson.annotations.SerializedName;
 @Keep
 public class FileConfigResponseModel {
     @SerializedName("updateGraph")
-    public com.dusdemo.UpdateGraph updateGraph;
+    public UpdateGraph updateGraph;
 }
 

@@ -1,6 +1,7 @@
 package com.rn_dus_testing;
 
 import com.facebook.react.ReactActivity;
+import com.facebook.react.ReactActivityDelegate;
 import com.flipkart.dus.DusReactApplicationDelegate;
 
 public class MainActivity extends ReactActivity {
