@@ -1,0 +1,14 @@
+{
+    "deploymentJob": [
+      {
+        "repoUrl": "git@github.com:fajardsx/rn_dus_testing.git",
+        "appVersions": [
+          "default"
+        ],
+        "branchName": "update",
+        "shouldDeploy": true,
+        "preCompileScript": "ls",
+        "bundleName": "example"
+      }
+    ]
+  }

@@ -1,0 +1,14 @@
+{
+    "appConfig": {
+        "default": {
+            "currentUpdateGraph": {
+                "example": {
+                    "gitBranch": "update",
+                    "gitRepoUrl": "git@github.com:fajardsx/rn_dus_testing.git",
+                    "bundlePath": "output/ReactBundles/default/example",
+                    "shouldDeploy": true
+                }
+            }
+        }
+    }
+}
