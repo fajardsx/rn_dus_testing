@@ -1,3 +1,6 @@
 rootProject.name = 'rn_dus_testing'
 
 include ':app'
+include ':dus'
+project(':dus').projectDir = new File(
+rootProject.projectDir, '../node_modules/dus-deployer/android/dus')

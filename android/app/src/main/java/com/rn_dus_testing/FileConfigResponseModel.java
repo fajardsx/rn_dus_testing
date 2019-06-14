@@ -1,0 +1,16 @@
+package com.rn_dus_testing;
+
+import android.support.annotation.Keep;
+
+import com.google.gson.annotations.SerializedName;
+
+/**
+ * Created by surya.kanoria on 08/01/18.
+ */
+
+@Keep
+public class FileConfigResponseModel {
+    @SerializedName("updateGraph")
+    public com.dusdemo.UpdateGraph updateGraph;
+}
+
