@@ -13,7 +13,7 @@
 	"dependencies": {
 		"dus-deployer": "^1.48.3",
 		"react": "16.0.0-beta.5",
-		"react-native": "0.49.0"
+		"react-native": "0.70.6"
 	},
 	"devDependencies": {
 		"babel-jest": "24.8.0",
